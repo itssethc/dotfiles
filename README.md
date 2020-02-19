@@ -4,8 +4,9 @@ Dependencies
   - i3wm with i3-gaps
   - i3status
   - Powerline font from Font Forge if you want to use Powerline in i3bar
+  - Nerd Fonts (I just did the whole package)
   - feh
-  - Rofi
+  - rofi
   - xcompmgr
   - xrdb
   
