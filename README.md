@@ -9,4 +9,4 @@ Dependencies
   - xcompmgr
   - xrdb
   
-i3 config currently has hotkeys set up for st as it's terminal, Rofi replaces dmenu, and Hack (from Nerd Fonts) is it's main font. I use .Xresources to set colors in VS Code (.Xresources Theme), all i3 pieces, nano and st. Use xcompmgr for transparent st. Another would work fine.
+i3 config currently has hotkeys set up for st as it's terminal, Rofi replaces dmenu, and Hack (from Nerd Fonts) is it's main font. I use .Xresources to set colors in VS Code (.Xresources Theme), all i3 pieces, nano and st/bash. Use xcompmgr for transparent st. Another would work fine. Bash profile will work with other terminals.
